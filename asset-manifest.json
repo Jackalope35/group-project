@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/group-project/static/css/main.7d3e70b0.css",
+    "main.js": "/group-project/static/js/main.50f4cc7d.js",
+    "static/js/453.ddfb6343.chunk.js": "/group-project/static/js/453.ddfb6343.chunk.js",
+    "static/media/HECOR.png": "/group-project/static/media/HECOR.8ffb3def10332121a8c5.png",
+    "static/media/wiggum.gif": "/group-project/static/media/wiggum.df26f879e23235be74b5.gif",
+    "index.html": "/group-project/index.html",
+    "main.7d3e70b0.css.map": "/group-project/static/css/main.7d3e70b0.css.map",
+    "main.50f4cc7d.js.map": "/group-project/static/js/main.50f4cc7d.js.map",
+    "453.ddfb6343.chunk.js.map": "/group-project/static/js/453.ddfb6343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3e70b0.css",
+    "static/js/main.50f4cc7d.js"
+  ]
+}

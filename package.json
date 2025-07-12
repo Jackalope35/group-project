@@ -1,6 +1,6 @@
 {
   "name": "project_1",
-  "homepage" : "https://jackalope35.github.io/group-project",
+  "homepage": "https://jackalope35.github.io/group-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

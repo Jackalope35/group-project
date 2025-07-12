@@ -1,1 +1,6 @@
+weblink:
 https://jackalope35.github.io/group-project/
+video link:
+https://ilearn.us-west-2.instructuremedia.com/embed/90805d8b-3e66-472d-8827-a304b47abc33
+
+Also added video file to src folder titled React Group 7 Project.mp4

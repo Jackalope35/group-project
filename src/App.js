@@ -37,9 +37,28 @@ function App() {
   target="_blank"
   rel="noopener noreferrer"
 >
-  <button style={{ marginTop: '20px' }}>
-    Click here for Pearl's work
-  </button>
+  <button
+  style={{
+    backgroundColor: '#04AA6D',
+    color: 'white',
+    border: 'none',
+    padding: '12px 24px',
+    marginTop: '20px',
+    fontSize: '16px',
+    borderRadius: '8px',
+    cursor: 'pointer',
+    display: 'flex',
+    alignItems: 'center',
+    gap: '10px',
+    transition: 'background-color 0.3s',
+  }}
+  onMouseOver={e => (e.target.style.backgroundColor = '#038c5a')}
+  onMouseOut={e => (e.target.style.backgroundColor = '#04AA6D')}
+>
+  <span role="img" aria-label="link">🔗</span>
+  Click here for Pearl's work
+</button>
+
 </a>
 
       </header>
